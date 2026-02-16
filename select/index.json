@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "万有引力",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-16T08:09:53.525775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "万有引力",
+      "artist": "Fyy",
+      "has_synced": false,
+      "path": "select/01_万有引力_Fyy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "万有引力",
+      "artist": "Silence Wang",
+      "has_synced": true,
+      "path": "select/02_万有引力_Silence_Wang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "万有引力",
+      "artist": "F*yy",
+      "has_synced": true,
+      "path": "select/03_万有引力_F_yy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "万有引力",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/04_万有引力_Tani_Yuuki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "万有引力 (和声版伴奏)",
+      "artist": "Fyy",
+      "has_synced": false,
+      "path": "select/05_万有引力_(和声版伴奏)_Fyy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "万有引力",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/06_万有引力_HACHI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "万有引力",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_万有引力_HACHI.txt"
+    }
+  ]
+}
